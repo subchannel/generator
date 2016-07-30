@@ -1,0 +1,34 @@
+{
+  "name": "generator-subchannel",
+  "version": "0.0.0",
+  "description": "A Yeoman generator for Subchannel projects",
+  "keywords": [
+    "subchannel",
+    "yeoman",
+    "generator"
+  ],
+  "homepage": "https://github.com/subchannel/generator#readme",
+  "bugs": "https://github.com/subchannel/generator/issues",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Joe Bilt <joe@subchannel.io>",
+  "files": [
+    "generators",
+    "AUTHORS"
+  ],
+  "repository": "subchannel/generator",
+  "scripts": {
+    "pretest": "eslint generators test",
+    "test": "NODE_ENV=test mocha test"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.0",
+    "eslint-config-subchannel": "^3.0.0",
+    "mocha": "^2.5.3",
+    "yeoman-assert": "^2.2.1",
+    "yeoman-test": "^1.4.0"
+  },
+  "preferGlobal": true
+}
