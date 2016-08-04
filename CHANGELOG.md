@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Fix bug with missing `.gitignore` file
+
 ## [1.0.0] - 2016-07-30
 
 - Add generator that creates basic project files

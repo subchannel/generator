@@ -15,12 +15,20 @@ module.exports = Base.extend({
 
   configuring: {
     static: function () {
-      const files = ['.eslintrc', '.gitignore', 'AUTHORS'];
+      const files = ['AUTHORS'];
+      const dotFiles = ['eslintrc', 'gitignore'];
 
       for (const file of files) {
         this.fs.copy(
           this.templatePath(file),
           this.destinationPath(file)
+        );
+      }
+
+      for (const file of dotFiles) {
+        this.fs.copy(
+          this.templatePath(file),
+          this.destinationPath(`.${file}`)
         );
       }
     },
