@@ -24,11 +24,11 @@
     "yeoman-generator": "^0.24.1"
   },
   "devDependencies": {
-    "eslint": "^3.2.0",
+    "eslint": "^3.5.0",
     "eslint-config-subchannel": "^3.0.0",
-    "mocha": "^2.5.3",
+    "mocha": "^3.0.2",
     "yeoman-assert": "^2.2.1",
-    "yeoman-test": "^1.4.0"
+    "yeoman-test": "^1.5.0"
   },
   "preferGlobal": true
 }

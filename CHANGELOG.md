@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Bump some dev dependency versions
+
 ## [1.0.1] - 2016-08-03
 
 - Fix bug with missing `.gitignore` file
