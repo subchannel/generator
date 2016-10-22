@@ -24,8 +24,8 @@
     "yeoman-generator": "^0.24.1"
   },
   "devDependencies": {
-    "eslint": "^3.5.0",
-    "eslint-config-subchannel": "^3.0.0",
+    "eslint": "^3.8.1",
+    "eslint-config-subchannel": "^4.0.0",
     "jest": "^16.0.2",
     "yeoman-assert": "^2.2.1",
     "yeoman-test": "^1.5.0"
