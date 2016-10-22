@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Add Yarn details to README and ignore yarn-error.log
 - Bump some dev dependency versions
 
 ## [1.0.1] - 2016-08-03

@@ -9,9 +9,10 @@ A [Yeoman](http://yeoman.io) generator for [Subchannel](https://subchannel.io) p
 
 ## Usage
 
-First install Yeoman and the Subchannel generator globally using [npm](https://npmjs.org).
+First install Yeoman and the Subchannel generator globally using [Yarn](https://yarnpkg.com) or [npm](https://npmjs.org).
 
 ```
+$ yarn global add yo generator-subchannel
 $ npm install --global yo generator-subchannel
 ```
 
