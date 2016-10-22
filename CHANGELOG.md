@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.1.0] - Oct. 22, 2016
+
 - Bump yeoman-test
 - Bump eslint and eslint-config-subchannel
 - Add yarn-error.log to generator‘s gitignore file
@@ -22,6 +24,7 @@ All notable changes to this project will be documented in this file.
 
 - Add generator that creates basic project files
 
-[unreleased]: https://github.com/subchannel/generator/compare/1.0.1...HEAD
+[unreleased]: https://github.com/subchannel/generator/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/subchannel/generator/compare/1.0.1...1.1.0
 [1.0.1]: https://github.com/subchannel/generator/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/subchannel/generator/releases/tag/1.0.0
