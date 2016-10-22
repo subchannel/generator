@@ -17,8 +17,8 @@
   ],
   "repository": "subchannel/generator",
   "scripts": {
-    "pretest": "eslint generators test",
-    "test": "NODE_ENV=test mocha test"
+    "pretest": "eslint __tests__ generators",
+    "test": "jest"
   },
   "dependencies": {
     "yeoman-generator": "^0.24.1"
@@ -26,7 +26,7 @@
   "devDependencies": {
     "eslint": "^3.5.0",
     "eslint-config-subchannel": "^3.0.0",
-    "mocha": "^3.0.2",
+    "jest": "^16.0.2",
     "yeoman-assert": "^2.2.1",
     "yeoman-test": "^1.5.0"
   },
