@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Add yarn-error.log to generator‘s gitignore file
 - Switch to Jest testing framework
 - Add Yarn details to README and ignore yarn-error.log
 - Bump some dev dependency versions
