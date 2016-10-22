@@ -7,7 +7,10 @@ All notable changes to this project will be documented in this file.
 - Add yarn-error.log to generator‘s gitignore file
 - Switch to Jest testing framework
 - Add Yarn details to README and ignore yarn-error.log
+- Remove eslint from Code Climate
+- Add Code Climate badge and config file
 - Bump some dev dependency versions
+- Add Codeship badge to README
 
 ## [1.0.1] - 2016-08-03
 
