@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Bump yeoman-test
 - Bump eslint and eslint-config-subchannel
 - Add yarn-error.log to generator‘s gitignore file
 - Switch to Jest testing framework
